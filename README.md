@@ -2,17 +2,43 @@
 
 1. OBJETIVO
 
+Identificar una forma de onda sinusoidal y medir sus características
+
+Describir cómo se generan las ondas seno 
+
+Describir las relaciones angulares de una onda seno
+
+Utilizar un fasor para representar una onda seno 
+
+Determinar voltajes totales que tienen tanto componentes de ca como de cd
+
 2. MARCO TEORICO
 
-4. VIDEO
+![1](https://user-images.githubusercontent.com/116687152/212789407-db959a20-df10-4567-a1aa-a4198c617dc4.png)
 
-https://youtu.be/hiGNkd2tXUk
+![2](https://user-images.githubusercontent.com/116687152/212789424-c08f02ee-f092-41da-bbce-cd09e3f14c98.png)
 
-5. CONCLUSIONES
+![3](https://user-images.githubusercontent.com/116687152/212789447-9616abbe-0029-49b0-b35e-3bd67915d927.png)
 
-6. BIBLIOGRAFÍA
+![4](https://user-images.githubusercontent.com/116687152/212789463-251b5797-b0c3-4e3d-8742-ba47a509feae.png)
 
-FLOYD, T. L. (2008). 5 PRINCIPIOS DE CIRCUITOS ELECTRICOS (8a. ed.). MEXICO: PEARSON EDUCACION.
+![5](https://user-images.githubusercontent.com/116687152/212789482-407a06f2-b468-498e-aef3-17292b38472d.png)
+
+![6](https://user-images.githubusercontent.com/116687152/212789499-f88c40bc-c556-4b7f-95e7-07d05152c6f1.png)
+
+![7](https://user-images.githubusercontent.com/116687152/212789522-72d6278b-a127-45cd-a3c9-694308268cdc.png)
+
+![8](https://user-images.githubusercontent.com/116687152/212789541-8801e912-cc2a-4e57-b61c-60db18981647.png)
+
+![9](https://user-images.githubusercontent.com/116687152/212789557-eca930c4-ecb9-412c-8e46-88af1d3d257f.png)
+
+![10](https://user-images.githubusercontent.com/116687152/212789575-30c4dcfd-b7f5-4ba6-a0c9-7e6ec1a929e8.png)
+
+![11](https://user-images.githubusercontent.com/116687152/212789603-a67951e0-1a66-4b48-befe-cdab8ccb8b69.png)
+
+![12](https://user-images.githubusercontent.com/116687152/212789620-466636e2-441e-4897-88f1-ba27b0c040d9.png)
+
+RESOLUCION DE PROBLEMAS.
 
 1. Calcule la frecuencia con cada uno de los siguientes valores de periodo: 
 
@@ -482,3 +508,20 @@ La fluctuación se reduce.
 resistor que se emula.
 
 4.55 k
+
+4. VIDEO
+
+https://youtu.be/hiGNkd2tXUk
+
+5. CONCLUSIONES
+
+Hemos aprendido a identificar la forma sinusoidal.
+
+Hemos aprendido a describir como se genera las ondas seno.
+
+Hemos aprendido a identificar y observar como matematicamente es una forma de onde sinusoidal.
+
+
+6. BIBLIOGRAFÍA
+
+FLOYD, T. L. (2008). 5 PRINCIPIOS DE CIRCUITOS ELECTRICOS (8a. ed.). MEXICO: PEARSON EDUCACION.
